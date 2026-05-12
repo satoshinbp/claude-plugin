@@ -1,0 +1,13 @@
+{
+  "name": "git",
+  "description": "Git workflow skills for Claude Code.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Shinya Sato"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0113shins/claude-git-plugin"
+  },
+  "license": "MIT"
+}
