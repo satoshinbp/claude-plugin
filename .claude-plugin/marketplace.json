@@ -1,0 +1,13 @@
+{
+  "name": "shinya-plugins",
+  "owner": {
+    "name": "Shinya Sato"
+  },
+  "plugins": [
+    {
+      "name": "git",
+      "source": "./plugins/git",
+      "description": "Git workflow skills for Claude Code."
+    }
+  ]
+}
