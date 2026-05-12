@@ -8,6 +8,11 @@
       "name": "git",
       "source": "./plugins/git",
       "description": "Git workflow skills for Claude Code."
+    },
+    {
+      "name": "clean-code",
+      "source": "./plugins/clean-code",
+      "description": "Tech-stack-agnostic coding conventions for naming and comments."
     }
   ]
 }
